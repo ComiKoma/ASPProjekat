@@ -1,0 +1,12 @@
+C:\Users\Milica\source\repos\ASPProjekat\ASPProjekat.Application\bin\Debug\netcoreapp3.1\ASPProjekat.Domain.dll
+C:\Users\Milica\source\repos\ASPProjekat\ASPProjekat.Application\obj\Debug\netcoreapp3.1\ASPProjekat.Application.csprojAssemblyReference.cache
+C:\Users\Milica\source\repos\ASPProjekat\ASPProjekat.Application\obj\Debug\netcoreapp3.1\ASPProjekat.Application.AssemblyInfoInputs.cache
+C:\Users\Milica\source\repos\ASPProjekat\ASPProjekat.Application\obj\Debug\netcoreapp3.1\ASPProjekat.Application.AssemblyInfo.cs
+C:\Users\Milica\source\repos\ASPProjekat\ASPProjekat.Application\bin\Debug\netcoreapp3.1\ASPProjekat.Application.deps.json
+C:\Users\Milica\source\repos\ASPProjekat\ASPProjekat.Application\bin\Debug\netcoreapp3.1\ASPProjekat.Application.dll
+C:\Users\Milica\source\repos\ASPProjekat\ASPProjekat.Application\bin\Debug\netcoreapp3.1\ASPProjekat.Application.pdb
+C:\Users\Milica\source\repos\ASPProjekat\ASPProjekat.Application\bin\Debug\netcoreapp3.1\ASPProjekat.Domain.pdb
+C:\Users\Milica\source\repos\ASPProjekat\ASPProjekat.Application\obj\Debug\netcoreapp3.1\ASPProjekat.Application.csproj.CoreCompileInputs.cache
+C:\Users\Milica\source\repos\ASPProjekat\ASPProjekat.Application\obj\Debug\netcoreapp3.1\ASPProjekat.Application.csproj.CopyComplete
+C:\Users\Milica\source\repos\ASPProjekat\ASPProjekat.Application\obj\Debug\netcoreapp3.1\ASPProjekat.Application.dll
+C:\Users\Milica\source\repos\ASPProjekat\ASPProjekat.Application\obj\Debug\netcoreapp3.1\ASPProjekat.Application.pdb

@@ -1,0 +1,16 @@
+C:\Users\Milica\source\repos\ASPProjekat\ASPProjekat.Implementation\bin\Debug\netcoreapp3.1\ASPProjekat.Application.dll
+C:\Users\Milica\source\repos\ASPProjekat\ASPProjekat.Implementation\bin\Debug\netcoreapp3.1\ASPProjekat.Domain.dll
+C:\Users\Milica\source\repos\ASPProjekat\ASPProjekat.Implementation\bin\Debug\netcoreapp3.1\ASPProjekat.EFDataAccess.dll
+C:\Users\Milica\source\repos\ASPProjekat\ASPProjekat.Implementation\obj\Debug\netcoreapp3.1\ASPProjekat.Implementation.csprojAssemblyReference.cache
+C:\Users\Milica\source\repos\ASPProjekat\ASPProjekat.Implementation\obj\Debug\netcoreapp3.1\ASPProjekat.Implementation.AssemblyInfoInputs.cache
+C:\Users\Milica\source\repos\ASPProjekat\ASPProjekat.Implementation\obj\Debug\netcoreapp3.1\ASPProjekat.Implementation.AssemblyInfo.cs
+C:\Users\Milica\source\repos\ASPProjekat\ASPProjekat.Implementation\bin\Debug\netcoreapp3.1\ASPProjekat.Implementation.deps.json
+C:\Users\Milica\source\repos\ASPProjekat\ASPProjekat.Implementation\bin\Debug\netcoreapp3.1\ASPProjekat.Implementation.dll
+C:\Users\Milica\source\repos\ASPProjekat\ASPProjekat.Implementation\bin\Debug\netcoreapp3.1\ASPProjekat.Implementation.pdb
+C:\Users\Milica\source\repos\ASPProjekat\ASPProjekat.Implementation\bin\Debug\netcoreapp3.1\ASPProjekat.Application.pdb
+C:\Users\Milica\source\repos\ASPProjekat\ASPProjekat.Implementation\bin\Debug\netcoreapp3.1\ASPProjekat.EFDataAccess.pdb
+C:\Users\Milica\source\repos\ASPProjekat\ASPProjekat.Implementation\bin\Debug\netcoreapp3.1\ASPProjekat.Domain.pdb
+C:\Users\Milica\source\repos\ASPProjekat\ASPProjekat.Implementation\obj\Debug\netcoreapp3.1\ASPProjekat.Implementation.csproj.CoreCompileInputs.cache
+C:\Users\Milica\source\repos\ASPProjekat\ASPProjekat.Implementation\obj\Debug\netcoreapp3.1\ASPProjekat.Implementation.csproj.CopyComplete
+C:\Users\Milica\source\repos\ASPProjekat\ASPProjekat.Implementation\obj\Debug\netcoreapp3.1\ASPProjekat.Implementation.dll
+C:\Users\Milica\source\repos\ASPProjekat\ASPProjekat.Implementation\obj\Debug\netcoreapp3.1\ASPProjekat.Implementation.pdb
