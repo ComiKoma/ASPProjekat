@@ -1,0 +1,15 @@
+C:\Users\Milica\source\repos\ASPProjekat\EFDataAccess\bin\Debug\netcoreapp3.1\ASPProjekat.Domain.dll
+C:\Users\Milica\source\repos\ASPProjekat\EFDataAccess\obj\Debug\netcoreapp3.1\ASPProjekat.EFDataAccess.AssemblyInfoInputs.cache
+C:\Users\Milica\source\repos\ASPProjekat\EFDataAccess\obj\Debug\netcoreapp3.1\ASPProjekat.EFDataAccess.AssemblyInfo.cs
+C:\Users\Milica\source\repos\ASPProjekat\EFDataAccess\obj\Debug\netcoreapp3.1\ASPProjekat.EFDataAccess.csprojAssemblyReference.cache
+C:\Users\Milica\source\repos\ASPProjekat\EFDataAccess\bin\Debug\netcoreapp3.1\ASPProjekat.EFDataAccess.deps.json
+C:\Users\Milica\source\repos\ASPProjekat\EFDataAccess\bin\Debug\netcoreapp3.1\ASPProjekat.EFDataAccess.runtimeconfig.json
+C:\Users\Milica\source\repos\ASPProjekat\EFDataAccess\bin\Debug\netcoreapp3.1\ASPProjekat.EFDataAccess.runtimeconfig.dev.json
+C:\Users\Milica\source\repos\ASPProjekat\EFDataAccess\bin\Debug\netcoreapp3.1\ASPProjekat.EFDataAccess.dll
+C:\Users\Milica\source\repos\ASPProjekat\EFDataAccess\bin\Debug\netcoreapp3.1\ASPProjekat.EFDataAccess.pdb
+C:\Users\Milica\source\repos\ASPProjekat\EFDataAccess\bin\Debug\netcoreapp3.1\ASPProjekat.Domain.pdb
+C:\Users\Milica\source\repos\ASPProjekat\EFDataAccess\obj\Debug\netcoreapp3.1\ASPProjekat.EFDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Milica\source\repos\ASPProjekat\EFDataAccess\obj\Debug\netcoreapp3.1\ASPProjekat.EFDataAccess.csproj.CopyComplete
+C:\Users\Milica\source\repos\ASPProjekat\EFDataAccess\obj\Debug\netcoreapp3.1\ASPProjekat.EFDataAccess.dll
+C:\Users\Milica\source\repos\ASPProjekat\EFDataAccess\obj\Debug\netcoreapp3.1\ASPProjekat.EFDataAccess.pdb
+C:\Users\Milica\source\repos\ASPProjekat\EFDataAccess\obj\Debug\netcoreapp3.1\ASPProjekat.EFDataAccess.genruntimeconfig.cache

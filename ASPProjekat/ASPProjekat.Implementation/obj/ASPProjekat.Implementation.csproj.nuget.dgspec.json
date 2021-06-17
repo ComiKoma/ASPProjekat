@@ -1,0 +1,285 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Application\\ASPProjekat.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Application\\ASPProjekat.Application.csproj",
+        "projectName": "ASPProjekat.Application",
+        "projectPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Application\\ASPProjekat.Application.csproj",
+        "packagesPath": "C:\\Users\\Milica\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Milica\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Domain\\ASPProjekat.Domain.csproj": {
+                "projectPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Domain\\ASPProjekat.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Domain\\ASPProjekat.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Domain\\ASPProjekat.Domain.csproj",
+        "projectName": "ASPProjekat.Domain",
+        "projectPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Domain\\ASPProjekat.Domain.csproj",
+        "packagesPath": "C:\\Users\\Milica\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Milica\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj",
+        "projectName": "ASPProjekat.Implementation",
+        "projectPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj",
+        "packagesPath": "C:\\Users\\Milica\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Milica\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Application\\ASPProjekat.Application.csproj": {
+                "projectPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Application\\ASPProjekat.Application.csproj"
+              },
+              "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\EFDataAccess\\ASPProjekat.EFDataAccess.csproj": {
+                "projectPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\EFDataAccess\\ASPProjekat.EFDataAccess.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[10.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\EFDataAccess\\ASPProjekat.EFDataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\EFDataAccess\\ASPProjekat.EFDataAccess.csproj",
+        "projectName": "ASPProjekat.EFDataAccess",
+        "projectPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\EFDataAccess\\ASPProjekat.EFDataAccess.csproj",
+        "packagesPath": "C:\\Users\\Milica\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\EFDataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Milica\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Domain\\ASPProjekat.Domain.csproj": {
+                "projectPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Domain\\ASPProjekat.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.7, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
