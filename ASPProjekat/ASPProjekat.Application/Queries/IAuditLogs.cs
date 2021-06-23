@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ASPProjekat.Application.Queries
 {
-    public interface IAuditLogs : IQuery<AuditLogsSearchDto, PagedResponse<AuditLogsDto>>
+    public interface IAuditLogs : IQuery<AuditLogsSearch, PagedResponse<AuditLogsDto>>
     {
     }
 }

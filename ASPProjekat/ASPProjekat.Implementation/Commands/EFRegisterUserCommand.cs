@@ -46,7 +46,8 @@ namespace ASPProjekat.Implementation.Commands
 
             if (newUser.IsAdmin)
             {
-                CreateUserUseCases(Enumerable.Range(1, 20).ToList(), newUser);
+                
+                CreateUserUseCases(Enumerable.Range(1, 27).ToList(), newUser);
             }
             else
             {

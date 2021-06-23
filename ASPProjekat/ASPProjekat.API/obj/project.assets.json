@@ -5806,11 +5806,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.API\\ASPProjekat.API.csproj",
+      "projectUniqueName": "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\ASPProjekat.API\\ASPProjekat.API.csproj",
       "projectName": "ASPProjekat.API",
-      "projectPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.API\\ASPProjekat.API.csproj",
+      "projectPath": "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\ASPProjekat.API\\ASPProjekat.API.csproj",
       "packagesPath": "C:\\Users\\Milica\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.API\\obj\\",
+      "outputPath": "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\ASPProjekat.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Milica\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5827,17 +5827,17 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Application\\ASPProjekat.Application.csproj": {
-              "projectPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Application\\ASPProjekat.Application.csproj"
+            "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\ASPProjekat.Application\\ASPProjekat.Application.csproj": {
+              "projectPath": "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\ASPProjekat.Application\\ASPProjekat.Application.csproj"
             },
-            "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Domain\\ASPProjekat.Domain.csproj": {
-              "projectPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Domain\\ASPProjekat.Domain.csproj"
+            "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\ASPProjekat.Domain\\ASPProjekat.Domain.csproj": {
+              "projectPath": "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\ASPProjekat.Domain\\ASPProjekat.Domain.csproj"
             },
-            "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj": {
-              "projectPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj"
+            "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj": {
+              "projectPath": "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj"
             },
-            "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\EFDataAccess\\ASPProjekat.EFDataAccess.csproj": {
-              "projectPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\EFDataAccess\\ASPProjekat.EFDataAccess.csproj"
+            "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\EFDataAccess\\ASPProjekat.EFDataAccess.csproj": {
+              "projectPath": "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\EFDataAccess\\ASPProjekat.EFDataAccess.csproj"
             }
           }
         }

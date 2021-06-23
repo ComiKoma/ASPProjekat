@@ -1,0 +1,15 @@
+D:\ICT\ASPProjekat-main\ASPProjekat\EFDataAccess\bin\Release\netcoreapp3.1\ASPProjekat.EFDataAccess.deps.json
+D:\ICT\ASPProjekat-main\ASPProjekat\EFDataAccess\bin\Release\netcoreapp3.1\ASPProjekat.EFDataAccess.runtimeconfig.json
+D:\ICT\ASPProjekat-main\ASPProjekat\EFDataAccess\bin\Release\netcoreapp3.1\ASPProjekat.EFDataAccess.runtimeconfig.dev.json
+D:\ICT\ASPProjekat-main\ASPProjekat\EFDataAccess\bin\Release\netcoreapp3.1\ASPProjekat.EFDataAccess.dll
+D:\ICT\ASPProjekat-main\ASPProjekat\EFDataAccess\bin\Release\netcoreapp3.1\ASPProjekat.EFDataAccess.pdb
+D:\ICT\ASPProjekat-main\ASPProjekat\EFDataAccess\bin\Release\netcoreapp3.1\ASPProjekat.Domain.dll
+D:\ICT\ASPProjekat-main\ASPProjekat\EFDataAccess\bin\Release\netcoreapp3.1\ASPProjekat.Domain.pdb
+D:\ICT\ASPProjekat-main\ASPProjekat\EFDataAccess\obj\Release\netcoreapp3.1\ASPProjekat.EFDataAccess.csprojAssemblyReference.cache
+D:\ICT\ASPProjekat-main\ASPProjekat\EFDataAccess\obj\Release\netcoreapp3.1\ASPProjekat.EFDataAccess.AssemblyInfoInputs.cache
+D:\ICT\ASPProjekat-main\ASPProjekat\EFDataAccess\obj\Release\netcoreapp3.1\ASPProjekat.EFDataAccess.AssemblyInfo.cs
+D:\ICT\ASPProjekat-main\ASPProjekat\EFDataAccess\obj\Release\netcoreapp3.1\ASPProjekat.EFDataAccess.csproj.CoreCompileInputs.cache
+D:\ICT\ASPProjekat-main\ASPProjekat\EFDataAccess\obj\Release\netcoreapp3.1\ASPProjekat.EFDataAccess.csproj.CopyComplete
+D:\ICT\ASPProjekat-main\ASPProjekat\EFDataAccess\obj\Release\netcoreapp3.1\ASPProjekat.EFDataAccess.dll
+D:\ICT\ASPProjekat-main\ASPProjekat\EFDataAccess\obj\Release\netcoreapp3.1\ASPProjekat.EFDataAccess.pdb
+D:\ICT\ASPProjekat-main\ASPProjekat\EFDataAccess\obj\Release\netcoreapp3.1\ASPProjekat.EFDataAccess.genruntimeconfig.cache

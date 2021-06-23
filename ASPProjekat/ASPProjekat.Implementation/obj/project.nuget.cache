@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BBmGKOmH5orEzw2lkUas8hPEcwqTAYN1IXq9GfgfwDpDo3VVEqPKRXPjBEzdTc2yFoQAf2GnNuFnJDtM/xvEuA==",
+  "dgSpecHash": "X54oUUtv3y9PdttkQnVvd/Z9NSEAkWz/xtv+NEixsYmGJHggkjhT9SQim3s74aCUwUMQ0uS5c2pndSguEe3zyw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj",
+  "projectFilePath": "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Milica\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\Milica\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

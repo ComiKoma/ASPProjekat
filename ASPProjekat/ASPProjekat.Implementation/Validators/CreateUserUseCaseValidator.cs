@@ -29,7 +29,7 @@ namespace ASPProjekat.Implementation.Validators
 
     public bool UseCaseExists(int useCaseId)
     {
-        return useCaseId > 0 && useCaseId < 21;
+        return useCaseId > 0 && useCaseId < 28;
     }
 }
 }

@@ -5820,11 +5820,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\EFDataAccess\\ASPProjekat.EFDataAccess.csproj",
+      "projectUniqueName": "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\EFDataAccess\\ASPProjekat.EFDataAccess.csproj",
       "projectName": "ASPProjekat.EFDataAccess",
-      "projectPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\EFDataAccess\\ASPProjekat.EFDataAccess.csproj",
+      "projectPath": "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\EFDataAccess\\ASPProjekat.EFDataAccess.csproj",
       "packagesPath": "C:\\Users\\Milica\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\EFDataAccess\\obj\\",
+      "outputPath": "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\EFDataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Milica\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5841,8 +5841,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Domain\\ASPProjekat.Domain.csproj": {
-              "projectPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Domain\\ASPProjekat.Domain.csproj"
+            "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\ASPProjekat.Domain\\ASPProjekat.Domain.csproj": {
+              "projectPath": "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\ASPProjekat.Domain\\ASPProjekat.Domain.csproj"
             }
           }
         }

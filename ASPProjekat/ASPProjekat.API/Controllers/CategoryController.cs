@@ -7,6 +7,7 @@ using ASPProjekat.Application.Commands;
 using ASPProjekat.Application.DataTransfer;
 using ASPProjekat.Application.Queries;
 using ASPProjekat.Application.Searches;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -14,12 +15,13 @@ namespace ASPProjekat.ApiApp.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class CategoriesController : ControllerBase
+    [Authorize]
+    public class CategoryController : ControllerBase
     {
         private readonly IApplicationActor actor;
         private readonly UseCaseExecutor executor;
 
-        public CategoriesController(IApplicationActor actor, UseCaseExecutor executor)
+        public CategoryController(IApplicationActor actor, UseCaseExecutor executor)
         {
             this.actor = actor;
             this.executor = executor;
@@ -34,9 +36,9 @@ namespace ASPProjekat.ApiApp.Controllers
 
         // GET: api/Categories/5
         [HttpGet("{id}", Name = "GetCat")]
-        public string Get(int id)
+        public IActionResult Get(int id, [FromServices] IGetOneCategoryQuery query)
         {
-            return "value";
+            return Ok(executor.ExecuteQuery(query, id));
         }
 
         // POST: api/Categories

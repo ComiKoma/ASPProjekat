@@ -1,0 +1,16 @@
+D:\ICT\ASPProjekat-main\ASPProjekat\ASPProjekat.Implementation\bin\Release\netcoreapp3.1\ASPProjekat.Implementation.deps.json
+D:\ICT\ASPProjekat-main\ASPProjekat\ASPProjekat.Implementation\bin\Release\netcoreapp3.1\ASPProjekat.Implementation.dll
+D:\ICT\ASPProjekat-main\ASPProjekat\ASPProjekat.Implementation\bin\Release\netcoreapp3.1\ASPProjekat.Implementation.pdb
+D:\ICT\ASPProjekat-main\ASPProjekat\ASPProjekat.Implementation\bin\Release\netcoreapp3.1\ASPProjekat.Application.dll
+D:\ICT\ASPProjekat-main\ASPProjekat\ASPProjekat.Implementation\bin\Release\netcoreapp3.1\ASPProjekat.Domain.dll
+D:\ICT\ASPProjekat-main\ASPProjekat\ASPProjekat.Implementation\bin\Release\netcoreapp3.1\ASPProjekat.EFDataAccess.dll
+D:\ICT\ASPProjekat-main\ASPProjekat\ASPProjekat.Implementation\bin\Release\netcoreapp3.1\ASPProjekat.Application.pdb
+D:\ICT\ASPProjekat-main\ASPProjekat\ASPProjekat.Implementation\bin\Release\netcoreapp3.1\ASPProjekat.EFDataAccess.pdb
+D:\ICT\ASPProjekat-main\ASPProjekat\ASPProjekat.Implementation\bin\Release\netcoreapp3.1\ASPProjekat.Domain.pdb
+D:\ICT\ASPProjekat-main\ASPProjekat\ASPProjekat.Implementation\obj\Release\netcoreapp3.1\ASPProjekat.Implementation.csprojAssemblyReference.cache
+D:\ICT\ASPProjekat-main\ASPProjekat\ASPProjekat.Implementation\obj\Release\netcoreapp3.1\ASPProjekat.Implementation.AssemblyInfoInputs.cache
+D:\ICT\ASPProjekat-main\ASPProjekat\ASPProjekat.Implementation\obj\Release\netcoreapp3.1\ASPProjekat.Implementation.AssemblyInfo.cs
+D:\ICT\ASPProjekat-main\ASPProjekat\ASPProjekat.Implementation\obj\Release\netcoreapp3.1\ASPProjekat.Implementation.csproj.CoreCompileInputs.cache
+D:\ICT\ASPProjekat-main\ASPProjekat\ASPProjekat.Implementation\obj\Release\netcoreapp3.1\ASPProjekat.Implementation.csproj.CopyComplete
+D:\ICT\ASPProjekat-main\ASPProjekat\ASPProjekat.Implementation\obj\Release\netcoreapp3.1\ASPProjekat.Implementation.dll
+D:\ICT\ASPProjekat-main\ASPProjekat\ASPProjekat.Implementation\obj\Release\netcoreapp3.1\ASPProjekat.Implementation.pdb

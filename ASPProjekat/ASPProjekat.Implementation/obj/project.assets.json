@@ -5578,11 +5578,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj",
+      "projectUniqueName": "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj",
       "projectName": "ASPProjekat.Implementation",
-      "projectPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj",
+      "projectPath": "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\ASPProjekat.Implementation\\ASPProjekat.Implementation.csproj",
       "packagesPath": "C:\\Users\\Milica\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Implementation\\obj\\",
+      "outputPath": "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\ASPProjekat.Implementation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Milica\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5599,11 +5599,11 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Application\\ASPProjekat.Application.csproj": {
-              "projectPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Application\\ASPProjekat.Application.csproj"
+            "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\ASPProjekat.Application\\ASPProjekat.Application.csproj": {
+              "projectPath": "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\ASPProjekat.Application\\ASPProjekat.Application.csproj"
             },
-            "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\EFDataAccess\\ASPProjekat.EFDataAccess.csproj": {
-              "projectPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\EFDataAccess\\ASPProjekat.EFDataAccess.csproj"
+            "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\EFDataAccess\\ASPProjekat.EFDataAccess.csproj": {
+              "projectPath": "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\EFDataAccess\\ASPProjekat.EFDataAccess.csproj"
             }
           }
         }

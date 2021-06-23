@@ -6,6 +6,7 @@ using ASPProjekat.Application;
 using ASPProjekat.Application.Commands;
 using ASPProjekat.Application.DataTransfer;
 using ASPProjekat.Application.Queries;
+using ASPProjekat.Application.Searches;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -26,9 +27,9 @@ namespace ASPProjekat.ApiApp.Controllers
 
         // GET: api/Order
         [HttpGet]
-        public IEnumerable<string> Get()
+        public IActionResult Get([FromQuery] OrderSearch search, [FromServices] IGetOrdersQuery query)
         {
-            return new string[] { "value1", "value2" };
+            return Ok(executor.ExecuteQuery(query, search));
         }
 
         // GET: api/Order/5
@@ -53,12 +54,6 @@ namespace ASPProjekat.ApiApp.Controllers
             dto.OrderId = id;
             executor.ExecuteCommand(command, dto);
             return NoContent();
-        }
-
-        // DELETE: api/ApiWithActions/5
-        [HttpDelete("{id}")]
-        public void Delete(int id)
-        {
         }
     }
 }
