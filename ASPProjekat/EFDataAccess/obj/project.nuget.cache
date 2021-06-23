@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qtN6Rj9RE2qexpkm/Ay5E6SvcyNA9WawPiKF8Tl01pnZnmd2XwphVDAhi5GItgzRGuTEXt1fHZw8az4U9UXyjw==",
+  "dgSpecHash": "UgKzEm49T0p65wsD2BklE9XUUAHk4Up2iH4eg4qkivSoT+a+oCXj+XSjQPAmkGZlKoWZ8lbtCIOOuUd8Frf5jg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\EFDataAccess\\ASPProjekat.EFDataAccess.csproj",
+  "projectFilePath": "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\EFDataAccess\\ASPProjekat.EFDataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Milica\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Milica\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

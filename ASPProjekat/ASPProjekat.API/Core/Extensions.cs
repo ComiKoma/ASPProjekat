@@ -137,7 +137,7 @@ namespace ASPProjekat.API.Core
             services.AddTransient<CreateArticleValidator>();
             services.AddTransient<CreateCategoryValidator>();
             services.AddTransient<RegisterUserValidator>();
-
+            services.AddTransient<UpdateUserValidator>();
         }
 
         public static void AddAllCommands(this IServiceCollection services)
@@ -149,12 +149,15 @@ namespace ASPProjekat.API.Core
             services.AddTransient<IInsertIntoCart, EFInsertIntoCartCommand>();
 
             services.AddTransient<IUpdateArticleCommand, EFUpdateArticleCommand>();
+            services.AddTransient<IUpdateUserCommand, EFUpdateUserCommand>();
+
             services.AddTransient<IUpdateQuantityCart, EFUpdateQuantityCartCommand>();
             services.AddTransient<IUpdateCategoryCommand, EFUpdateCategoryCommand>();
             services.AddTransient<IChangeOrderStatus, EFChangeOrderStatusCommand>();
 
             services.AddTransient<IDeleteArticleCommand, EFDeleteArticleCommand>();
             services.AddTransient<IDeleteCategory, EFDeleteCategoryCommand>();
+            services.AddTransient<IDeleteUserCommand, EFDeleteUserCommand>();
             services.AddTransient<IDeleteProductFromCart, EFDeleteProductFromCartCommand>();
 
         }
@@ -162,11 +165,15 @@ namespace ASPProjekat.API.Core
         public static void AddAllQueries(this IServiceCollection services)
         {
             services.AddTransient<IAuditLogs, EFAuditLogs>();
+            services.AddTransient<IGetOneUserQuery, EFGetOneUserQuery>();
+            services.AddTransient<IGetUsersQuery, EFGetUsersQuery>();
             services.AddTransient<IGetOneArticleQuery, EFGetOneArticleQuery>();
             services.AddTransient<IGetArticlesQuery, EFGetArticlesQuery>();
+            services.AddTransient<IGetOneCategoryQuery, EFGetOneCategoryQuery>();
             services.AddTransient<IGetCategoriesQuery, EFGetCategoriesQuery>();
-            services.AddTransient<IGetUserCart, EFGetUserCartQuery>();
             services.AddTransient<IGetOrder, EFGetOrder>();
+            services.AddTransient<IGetOrdersQuery, EFGetOrdersQuery>();
+            services.AddTransient<IGetUserCart, EFGetUserCartQuery>();
 
         }
     }

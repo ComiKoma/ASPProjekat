@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Application\\ASPProjekat.Application.csproj": {}
+    "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\ASPProjekat.Application\\ASPProjekat.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Application\\ASPProjekat.Application.csproj": {
+    "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\ASPProjekat.Application\\ASPProjekat.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Application\\ASPProjekat.Application.csproj",
+        "projectUniqueName": "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\ASPProjekat.Application\\ASPProjekat.Application.csproj",
         "projectName": "ASPProjekat.Application",
-        "projectPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Application\\ASPProjekat.Application.csproj",
+        "projectPath": "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\ASPProjekat.Application\\ASPProjekat.Application.csproj",
         "packagesPath": "C:\\Users\\Milica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Application\\obj\\",
+        "outputPath": "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\ASPProjekat.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Milica\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Domain\\ASPProjekat.Domain.csproj": {
-                "projectPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Domain\\ASPProjekat.Domain.csproj"
+              "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\ASPProjekat.Domain\\ASPProjekat.Domain.csproj": {
+                "projectPath": "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\ASPProjekat.Domain\\ASPProjekat.Domain.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Domain\\ASPProjekat.Domain.csproj": {
+    "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\ASPProjekat.Domain\\ASPProjekat.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Domain\\ASPProjekat.Domain.csproj",
+        "projectUniqueName": "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\ASPProjekat.Domain\\ASPProjekat.Domain.csproj",
         "projectName": "ASPProjekat.Domain",
-        "projectPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Domain\\ASPProjekat.Domain.csproj",
+        "projectPath": "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\ASPProjekat.Domain\\ASPProjekat.Domain.csproj",
         "packagesPath": "C:\\Users\\Milica\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Milica\\source\\repos\\ASPProjekat\\ASPProjekat.Domain\\obj\\",
+        "outputPath": "D:\\ICT\\ASPProjekat-main\\ASPProjekat\\ASPProjekat.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Milica\\AppData\\Roaming\\NuGet\\NuGet.Config",

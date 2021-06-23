@@ -24,7 +24,7 @@ namespace ASPProjekat.Implementation.Queries
 
         public string Name => "Search for Audit Logs";
 
-        public PagedResponse<AuditLogsDto> Execute(AuditLogsSearchDto search)
+        public PagedResponse<AuditLogsDto> Execute(AuditLogsSearch search)
         {
             var query = context.UseCaseLogs.AsQueryable();
 

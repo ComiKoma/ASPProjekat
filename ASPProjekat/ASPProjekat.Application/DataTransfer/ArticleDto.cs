@@ -8,7 +8,6 @@ namespace ASPProjekat.Application.DataTransfer
     {
         public int Id { get; set; }
         public string Name { get; set; }
-
         public string Picture { get; set; }
         public bool OnSale { get; set; }
         public int OnStock { get; set; }

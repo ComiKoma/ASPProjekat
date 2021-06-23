@@ -13,6 +13,14 @@ namespace ASPProjekat.ApiApp.Core.Profiles
         public UserProfile()
         {
             CreateMap<RegisterUserDto, User>();
+
+            CreateMap<User, UserDto>()
+                .ForMember(dto => dto.Username, opt => opt.MapFrom(a => a.Username))
+                .ForMember(dto => dto.LastName, opt => opt.MapFrom(a => a.LastName))
+                .ForMember(dto => dto.FirstName, opt => opt.MapFrom(a => a.FirstName))
+                .ForMember(dto => dto.Email, opt => opt.MapFrom(a => a.Email))
+                .ForMember(dto => dto.IsAdmin, opt => opt.MapFrom(a => a.IsAdmin));
+
         }
 
     }

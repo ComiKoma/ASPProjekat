@@ -1,0 +1,12 @@
+D:\ICT\ASPProjekat-main\ASPProjekat\ASPProjekat.Application\bin\Release\netcoreapp3.1\ASPProjekat.Application.deps.json
+D:\ICT\ASPProjekat-main\ASPProjekat\ASPProjekat.Application\bin\Release\netcoreapp3.1\ASPProjekat.Application.dll
+D:\ICT\ASPProjekat-main\ASPProjekat\ASPProjekat.Application\bin\Release\netcoreapp3.1\ASPProjekat.Application.pdb
+D:\ICT\ASPProjekat-main\ASPProjekat\ASPProjekat.Application\bin\Release\netcoreapp3.1\ASPProjekat.Domain.dll
+D:\ICT\ASPProjekat-main\ASPProjekat\ASPProjekat.Application\bin\Release\netcoreapp3.1\ASPProjekat.Domain.pdb
+D:\ICT\ASPProjekat-main\ASPProjekat\ASPProjekat.Application\obj\Release\netcoreapp3.1\ASPProjekat.Application.csprojAssemblyReference.cache
+D:\ICT\ASPProjekat-main\ASPProjekat\ASPProjekat.Application\obj\Release\netcoreapp3.1\ASPProjekat.Application.AssemblyInfoInputs.cache
+D:\ICT\ASPProjekat-main\ASPProjekat\ASPProjekat.Application\obj\Release\netcoreapp3.1\ASPProjekat.Application.AssemblyInfo.cs
+D:\ICT\ASPProjekat-main\ASPProjekat\ASPProjekat.Application\obj\Release\netcoreapp3.1\ASPProjekat.Application.csproj.CoreCompileInputs.cache
+D:\ICT\ASPProjekat-main\ASPProjekat\ASPProjekat.Application\obj\Release\netcoreapp3.1\ASPProjekat.Application.csproj.CopyComplete
+D:\ICT\ASPProjekat-main\ASPProjekat\ASPProjekat.Application\obj\Release\netcoreapp3.1\ASPProjekat.Application.dll
+D:\ICT\ASPProjekat-main\ASPProjekat\ASPProjekat.Application\obj\Release\netcoreapp3.1\ASPProjekat.Application.pdb

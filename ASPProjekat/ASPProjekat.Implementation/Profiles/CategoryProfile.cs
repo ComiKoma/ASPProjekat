@@ -13,7 +13,8 @@ namespace ASPProjekat.Implementation.Profiles
     {
         public CategoryProfile()
         {
-            CreateMap<CategoryDto, Category>(); ;
+            CreateMap<Category, CategoryDto>()
+               .ForMember(dto => dto.Name, opt => opt.MapFrom(a => a.Name));
         }
     }
 }

@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ASPProjekat.Application.DataTransfer
 {
-    public class AuditLogsSearchDto : PagedSearch
+    public class AuditLogsSearch : PagedSearch
     {
         public DateTime? LogFromDate { get; set; }
         public DateTime? LogToDate { get; set; }
